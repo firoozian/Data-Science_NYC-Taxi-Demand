@@ -1,7 +1,6 @@
 # NYC Yellow Taxi 2019 – ELT + ML on Databricks (PySpark)
 
-End-to-end **ELT + Machine Learning** pipeline on **Azure Databricks** to forecast hourly NYC yellow taxi demand per pickup zone.
-
+End-to-end ELT + Machine Learning pipeline on Databricks (Apache Spark / PySpark) to forecast hourly NYC yellow taxi demand per pickup zone.
 ---
 
 ## 🎯 Project Goal
